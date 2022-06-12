@@ -6,7 +6,7 @@
 ### **About Me**
 
  🌱 I’m currently learning <b>Smart Contracts Implementation & Cryptography</b><br> 
- 📝[My Resume](https://github.com/ashutoshdengri/ashutoshdengri/raw/main/resume/2022ResumeAshutosh.pdf)<br>
+ 📝[My Resume](https://github.com/ashutoshdengri/ashutoshdengri/raw/main/resume/ResumeAshutosh.pdf)<br>
 
 ---
 
