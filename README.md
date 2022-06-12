@@ -1,12 +1,12 @@
 ## Hello World! 👋
 ## I am  Ashutosh Singh Dengri 👨‍💻
 
-  <img align="right" alt="GIF" src="https://github.com/ashutoshsinghdengri/ashutoshsinghdengri/blob/main/img/code.gif?raw=true" width="500" height="260" />
+  <img align="right" alt="GIF" src="https://github.com/ashutoshdengri/ashutoshdengri/blob/main/img/code.gif?raw=true" width="500" height="260" />
   
 ### **About Me**
 
  🌱 I’m currently learning <b>Smart Contracts Implementation & Cryptography</b><br> 
- 📝[My Resume](https://github.com/ashutoshsinghdengri/ashutoshsinghdengri/raw/main/resume/2022ResumeAshutosh.pdf)<br>
+ 📝[My Resume](https://github.com/ashutoshdengri/ashutoshdengri/raw/main/resume/2022ResumeAshutosh.pdf)<br>
 
 ---
 
@@ -27,22 +27,22 @@
 
 ---
 ### 📈	GitHub Stats
-[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutoshsinghdengri&show_icons=true&theme=dark)](https://sourcerer.io/ashutoshsinghdengri)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshsinghdengri&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutoshdengri&show_icons=true&theme=dark)](https://sourcerer.io/ashutoshdengri)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdengri&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshsinghdengri&theme=dark&hide_langs_below=1"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshdengri&theme=dark&hide_langs_below=1"/>
 
 <br>
 
 ##  📝 You can find me on
 
-<a href="https://www.instagram.com/ashutoshsinghdengri/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/ashutoshdengri/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/ashdengri" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ashutoshsinghdengri/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/ashutoshdengri/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  </a>
 
@@ -50,9 +50,9 @@
 
 ##  🔅 Completed Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutoshsinghdengri&repo=Hack-a-thon&theme=dark)](https://github.com/ashutoshsinghdengri/Hack-a-thon)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutoshsinghdengri&repo=smartSupermarketCart&theme=dark)](https://github.com/ashutoshsinghdengri/smartSupermarketCart)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutoshsinghdengri&repo=smartHelmet&theme=dark)](https://github.com/ashutoshsinghdengri/smartHelmet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutoshdengri&repo=Hack-a-thon&theme=dark)](https://github.com/ashutoshdengri/Hack-a-thon)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutoshdengri&repo=smartSupermarketCart&theme=dark)](https://github.com/ashutoshdengri/smartSupermarketCart)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutoshdengri&repo=smartHelmet&theme=dark)](https://github.com/ashutoshdengri/smartHelmet)
 
 <br>
 
@@ -69,5 +69,5 @@
  <br>
   
 <p  align="center" >
-<img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/ashutoshsinghdengri.visitor-badge">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/ashutoshdengri.visitor-badge">
 </p>
