@@ -21,17 +21,23 @@
 ---
 
 ### 📈 GitHub Stats
+
+<!-- ![Ashutosh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashutoshdengri&theme=dark)
+![Ashutosh's Top Compact Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdengri&theme=dark&show_icons=true&layout=compact)
+![Ashutosh's Stats](https://github-readme-stats.vercel.app/api?username=ashutoshdengri&theme=dark&show_icons=true&count_private=true) -->
+
+
 <a href="https://github.com/ashutoshdengri/">
   <img height=200 width=450 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshdengri&theme=dark&hide_border=false" />
 </a>
 <a href="https://github.com/ashutoshdengri/">
-  <img height=200 width=288 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdengri&layout=donut&theme=dark&show_icons=true&hide_border=false" />
+  <img height=200 width=288 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdengri&layout=donut&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/ashutoshdengri/">
-  <img height=200 width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshdengri&theme=dark&show_icons=true&hide_border=false&count_private=true" />
+  <img height=200 width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshdengri&theme=dark&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/ashutoshdengri/">
-  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdengri&theme=dark&show_icons=true&hide_border=false&layout=compact" />
+  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdengri&theme=dark&show_icons=true&layout=compact" />
 </a>
 
 ---
