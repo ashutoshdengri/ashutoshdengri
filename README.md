@@ -13,7 +13,6 @@
 ###  📊 Currently learning
 #### __Business Demands | Java | Smart Contracts  |  Building AI Agent__
 
----
 
 ### 💻 Working on Projects
 #### __Bikers Safety Helmet |  Online Voting System using Crypegraphy | Custom AI Agents__
