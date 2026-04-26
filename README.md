@@ -22,12 +22,13 @@
 
 ### 📈 GitHub Stats
 
-<!-- ![Ashutosh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashutoshdengri&theme=dark)
-![Ashutosh's Top Compact Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdengri&theme=dark&show_icons=true&layout=compact)
-![Ashutosh's Stats](https://github-readme-stats.vercel.app/api?username=ashutoshdengri&theme=dark&show_icons=true&count_private=true) -->
+![Ashutosh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashutoshdengri&theme=dark)
+![Ashutosh's Donut Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdengri&layout=donut&theme=dark&show_icons=true)
+![Ashutosh's Stats](https://github-readme-stats.vercel.app/api?username=ashutoshdengri&theme=dark&show_icons=true&count_private=true)
+![Ashutosh's Compact Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdengri&theme=dark&show_icons=true&layout=compact)
 
 
-<a href="https://github.com/ashutoshdengri/">
+<!-- <a href="https://github.com/ashutoshdengri/">
   <img height=200 width=450 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshdengri&theme=dark&hide_border=false" />
 </a>
 <a href="https://github.com/ashutoshdengri/">
@@ -38,7 +39,7 @@
 </a>
 <a href="https://github.com/ashutoshdengri/">
   <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdengri&theme=dark&show_icons=true&layout=compact" />
-</a>
+</a> -->
 
 ---
 
